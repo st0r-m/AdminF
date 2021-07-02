@@ -6,7 +6,7 @@ use LWP::UserAgent;
 system('cls');
 system('title Admin Finder ');
 system "color 0a";
-print "By Storm \n";
+print "Created By Storm \n";
 print "-------Start Now-------\n";
 print " Enter Site\n Example: www.example.com \n-> ";
 $site=<STDIN>;
